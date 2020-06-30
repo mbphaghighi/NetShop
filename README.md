@@ -18,10 +18,10 @@ git clone https://github.com/mbphaghighi/NetShop.git
 After cloning, go to:
 
 ```bash
-core\model
+core\model.php file
 ```
 
-and in construct method, modify the database properties with your database config
+and in its __construct () method, modify the database properties with your database config.
 
 Then import the netshop.sql file into your database.
 
@@ -36,8 +36,8 @@ and visit [http://localhost/netshop/](http://localhost/netshop/) to see the appl
 You can register/login into application and register with 
 
 ```bash
-email:admin@gmail.com
-password:admin
+Email:admin@gmail.com
+Password:admin
 ```
 
 as admin to see the custom-built CMS for admin.
