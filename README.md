@@ -23,7 +23,7 @@ core\model.php file
 
 and in its __construct () method, modify the database properties with your database config.
 
-Then import the netshop.sql file into your database.
+Then, import the netshop.sql file into your database.
 
 
 ### Using the Web App
