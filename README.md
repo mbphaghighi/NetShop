@@ -26,7 +26,7 @@ and in its __construct () method, modify the database properties with your datab
 Then, import the netshop.sql file into your database.
 
 
-### Using the Web App
+## Using the Web App
 
 And finally, start the application:
 
