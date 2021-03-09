@@ -1,6 +1,6 @@
 # NetShop
 
-Develope a functional and multi-feature eCommerce web application with vanilla PHP, Javascript (jQuery), CSS and HTML.
+Develop a functional and multi-feature eCommerce web application with vanilla PHP, Javascript (jQuery), CSS and HTML.
 ## Getting Started
 
 Clone the project repository by running the command below if you use SSH
